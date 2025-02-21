@@ -6,4 +6,5 @@ package com.coder.zqc;
  * @project TestGit
  */
 public class Student {
+    private int age;
 }
